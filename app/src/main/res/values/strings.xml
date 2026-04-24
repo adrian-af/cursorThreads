@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DMC Catalog</string>
+    <string name="tab_my_collection">My collection</string>
+    <string name="tab_all_colors">All colors</string>
+    <string name="search_hint">Search by code or name</string>
+    <string name="label_owned">Owned</string>
+    <string name="label_skeins">Skeins: %1$d</string>
+    <string name="label_notes">Notes</string>
+    <string name="empty_collection">No colors in your collection yet.</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_system">System</string>
+    <string name="theme_menu">Theme</string>
+    <string name="content_color_swatch">Color swatch for %1$s</string>
+</resources>
