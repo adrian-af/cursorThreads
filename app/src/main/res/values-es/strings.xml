@@ -1,12 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Catalogo DMC</string>
-    <string name="tab_my_collection">Mi coleccion</string>
+    <string name="tab_my_collection">Mi colección</string>
     <string name="tab_all_colors">Todos los colores</string>
-    <string name="search_hint">Buscar por codigo o nombre</string>
+    <string name="search_hint">Buscar por código o nombre</string>
     <string name="label_owned">Lo tengo</string>
     <string name="label_skeins">Madejas: %1$d</string>
     <string name="label_notes">Notas</string>
-    <string name="empty_collection">Aun no tienes colores en tu coleccion.</string>
+    <string name="empty_collection">Aún no tienes colores en tu colección.</string>
     <string name="theme_light">Claro</string>
     <string name="theme_dark">Oscuro</string>
     <string name="theme_system">Sistema</string>
