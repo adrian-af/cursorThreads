@@ -1,0 +1,18 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+
+# Android Studio
+*.iml
+.idea/
+.DS_Store
+
+# Temporary files
+*.log
+
+# Local Gradle distribution used only for local testing
+gradle-8.7/
